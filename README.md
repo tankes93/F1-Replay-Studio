@@ -3,6 +3,7 @@
 A Python application for visualizing Formula 1 race telemetry and replaying race events with interactive controls and a graphical interface.
 
 ![Race Replay Preview]
+https://github.com/user-attachments/assets/af92a235-5c12-48e8-97b2-01a467b92714
 
 ## Features
 
@@ -86,6 +87,8 @@ F1 Replay Studio/
 │       └── time.py           # Time formatting utilities
 └── .fastf1-cache/            # FastF1 cache folder (created automatically upon first run)
 └── computed_data/            # Computed telemetry data (created automatically upon first run)
+```
+
 ## Customization
 
 - Change track width, colors, and UI layout in `src/interfaces/race_replay.py`.
@@ -96,3 +99,4 @@ F1 Replay Studio/
 ## 📝 License
 
 This project is licensed under the MIT License.
+
